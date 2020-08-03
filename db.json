@@ -2,13 +2,17 @@
   "TamilnaduCaseReport": [
     {
       "id": 1,
-      "Name": "Telangana State",
-      "TotalCases": "65000",
-      "TotalDeaths": "950",
-      "TotalRecovered": "15000",
-      "TotalInc": "4700",
-      "TotalDec": "0",
-      "Condition": "Need to improve"
+      "Nametn": "Tamilnadu (தமிழ்நாடு)",
+      "TotalCasestn": "1583792",
+      "TotalDeathstn": "34968",
+      "TotalRecoveredtn": "1020582",
+      "TotalCasesotn": "1.58M",
+      "TotalDeathswtn": "34.96K",
+      "TotalRecoveredrtn": "1.02M",
+      "TotalInctn": "52.12K+",
+      "TotalDectn": "775+",
+      "TotalRectn": "32.55K+",
+      "Conditiontn": "Need to improve"
     }
   ]
 }
